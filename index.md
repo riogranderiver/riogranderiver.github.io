@@ -13,7 +13,6 @@ layout: home
   [Caballo release information](caballo.html) 
 
 
-<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
