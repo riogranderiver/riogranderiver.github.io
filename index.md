@@ -7,4 +7,7 @@ layout: home
 
 ## Rio Grande
 
-- [Caballo release information](caballo.html) 
+### Caballo dam
+- Data retrieved from [https://www.usbr.gov/rsvrWater/HistoricalApp.html](https://www.usbr.gov/rsvrWater/HistoricalApp.html)
+- Daily release data, annual release length, annual total: 
+  [Caballo release information](caballo.html) 
