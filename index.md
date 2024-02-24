@@ -13,4 +13,4 @@ layout: home
 #
 ## Rio Grande
 
-- [Caballo release information](caballo.png) 
+- [Caballo release information](caballo.html) 
