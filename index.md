@@ -5,12 +5,6 @@
 layout: home
 ---
 
-#![logo](logo.png)
-
-#<center>
-#<img src="images/elmorro.jpeg" alt="elmorro" width="65%"/> 
-#</center>
-#
 ## Rio Grande
 
 - [Caballo release information](caballo.html) 
