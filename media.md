@@ -11,8 +11,11 @@ title : media
 - A short [video documentary](https://storymaps.arcgis.com/stories/1ad0c8057ff444a48d8e6656d7877168) Israel shared called “Water is Life”
 included a reference to a Rio Grande story map produced by a
 young woman named Esperanza Chairez, who used to work at Nuestra
-Tierra (and who spoke at an NMSU-sponsored climate change speaker
+Tierra (and who spoke at an NMSU-sponsored climate change speaker.
 series event in October 2022).  Geography professor Eric Magrane at NMSU guided me to it.
+
+<center><a href="https://storymaps.arcgis.com/stories/1ad0c8057ff444a48d8e6656d7877168"> <IMG SRC="waterislife.jpeg" width=200> </A></center>
+<br>`
 
 - [website where the Rio Grande story map is housed](https://cap.nmsu.edu/storymaps.html)
 
