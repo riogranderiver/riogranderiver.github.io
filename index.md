@@ -7,6 +7,12 @@ layout: home
 
 ## Rio Grande
 
+### Water data
+
 [Caballo releases](caballo.md)
 
-[Media](media.md)
+### Crop data
+
+### Media
+
+[Documentaries and story maps](media.md)
