@@ -8,21 +8,21 @@ title : media
 
 ## Media
 
-- A short [video documentary](https://storymaps.arcgis.com/stories/1ad0c8057ff444a48d8e6656d7877168) Israel shared called “Water is Life”
-included a reference to a Rio Grande story map produced by a
-young woman named Esperanza Chairez, who used to work at Nuestra
-Tierra (and who spoke at an NMSU-sponsored climate change speaker.
-series event in October 2022).  Geography professor Eric Magrane at NMSU guided me to it.
+- A short [video documentary](https://storymaps.arcgis.com/stories/1ad0c8057ff444a48d8e6656d7877168) 
+produced by a young woman named Esperanza Chairez.
 
-<center><a href="https://storymaps.arcgis.com/stories/1ad0c8057ff444a48d8e6656d7877168"> <IMG SRC="waterislife.jpeg" width=200> </A></center>
+<center><a href="https://storymaps.arcgis.com/stories/1ad0c8057ff444a48d8e6656d7877168"> <IMG SRC="waterislife.jpeg" width=400> </A></center>
 <br>`
 
-- [website where the Rio Grande story map is housed](https://cap.nmsu.edu/storymaps.html)
+- Rio Grande story map:
 
-- short [river-focused documentary film](https://youtu.be/eefK09DGg4E?si=sIIxxOg3GSjDQjjM) created by Annie Ersinghaus,
-an NMSU alum and former student of film instructor Ilana Lapid.
-Ersinghaus took some drone footage of the water flowing down the
-Rio Grande channel after release in 2022. 
+<center><a href="https://storymaps.arcgis.com/stories/1ad0c8057ff444a48d8e6656d7877168"> <IMG SRC="remembering.png" width=400> </A></center>
+<br>`
 
+
+- short documentary film on the Rio Grande created by Annie Ersinghaus:
+
+<center><a href="https://youtu.be/eefK09DGg4E?si=sIIxxOg3GSjDQjjM"> <IMG SRC="burningwater.png" width=400> </A></center>
+<br>`
 
 
