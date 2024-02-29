@@ -9,10 +9,15 @@ layout: home
 
 ### Water data
 
-[Caballo releases](caballo.md)
+[Caballo releases](caballo)
+
+[Groundwater/Surface-Water Interactions](groundwater)
 
 ### Crop data
 
+[Crop data](cropdata)
+
+
 ### Media
 
-[Documentaries and story maps](media.md)
+[Documentaries and story maps](media)
