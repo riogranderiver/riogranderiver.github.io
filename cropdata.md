@@ -12,6 +12,6 @@ title : Crop data
 
 
 <center>
-<img src="cropdata.png" alt="cropdata">
+<img src="crop.png" alt="cropdata">
 </center>
 
