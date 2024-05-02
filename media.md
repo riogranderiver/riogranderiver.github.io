@@ -13,7 +13,7 @@ title : media
 
 - A short river-focused documentary film created by Esperanza Chairez, formerly Communications Coordinator for the Nuestra Tierra Conservation Project
 
-<center><a href="https://storymaps.arcgis.com/stories/1ad0c8057ff444a48d8e6656d7877168"> <IMG SRC="waterislife.jpeg" width=400> </A></center>
+<center><a href="https://youtu.be/piLY-L8WonM?si=x9FnUqSGlSk35ixc"> <IMG SRC="waterislife.jpeg" width=400> </A></center>
 <br>`
 
 - A Story Map, Remembering the Rio: A collection of archives, interviews, and photographs documenting the lower Rio Grande through time. Student Project, 2022, Seminar on Critical Approaches to Place. Published on NMSU Student Story Map Projects webpage
