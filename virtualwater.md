@@ -14,7 +14,7 @@ title : Virtual
 </center>
 
 <center>
-<img src="pecans.pdf" alt="pecans">
+<img src="pecans.png" alt="pecans">
 </center>
 
 <center>
