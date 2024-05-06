@@ -17,7 +17,12 @@ layout: home
 
 [Crop data](cropdata)
 
+### Virtual water
+
+[Virtual water](virtualwater)
+
 
 ### Media
 
 [Documentaries and story maps](media)
+
