@@ -10,7 +10,8 @@ title : Virtual
 
 
 <center>
-<img src="oatmilk.pdf" alt="oatmilk">
+<img src="oatmilk1.png" alt="oatmilk">
+<img src="oatmilk2.png" alt="oatmilk">
 </center>
 
 <center>
@@ -18,6 +19,6 @@ title : Virtual
 </center>
 
 <center>
-<img src="almonds.pdf" alt="almonds">
+<img src="almonds.png" alt="almonds">
 </center>
 
