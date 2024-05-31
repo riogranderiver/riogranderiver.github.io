@@ -21,6 +21,10 @@ layout: home
 
 [Virtual water](virtualwater)
 
+### Climate Change Impacts on Water Resources
+
+[Climate change impacts](climate)
+
 
 ### Media
 
