@@ -8,6 +8,9 @@ title : Caballo releases
 
 ### Caballo dam
 - Data retrieved from [https://www.usbr.gov/rsvrWater/HistoricalApp.html](https://www.usbr.gov/rsvrWater/HistoricalApp.html)
+
+- [Bureau Releases from Caballo Dam for 2024](Bureau Releases from Caballo Dam 030824.pdf)
+
 - Daily release data, annual release length, annual total: 
   [Caballo release information](caballo.html) 
 

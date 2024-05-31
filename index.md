@@ -25,6 +25,9 @@ layout: home
 
 [Climate change impacts](climate)
 
+## Regional water planning
+
+[Regional water planning statute and documents](regional)
 
 ### Media
 

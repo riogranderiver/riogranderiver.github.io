@@ -8,6 +8,6 @@ title : Climate
 
 ### Climate change impacts on water resources
 
-[Bureau Releases from Caballo Dam](Bureau Releases from Caballo Dam 030824.pdf)
+[Full report: Climate Change in New Mexico Over the Next 50 Years Impacts on Water Resources.pdf](Climate Change in New Mexico Over the Next 50 Years Impacts on Water Resources.pdf)
 
-[Climate Change and New Mexico’s Water Resources:  A 50-Year Outlook](WNR 072522 Item 5 Gutzler1.pdf)
+[Six page summary of Climate Change and New Mexico’s Water Resources:  A 50-Year Outlook](WNR 072522 Item 5 Gutzler1.pdf)
