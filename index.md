@@ -25,7 +25,11 @@ layout: home
 
 [Climate change impacts](climate)
 
-## Regional water planning
+### Public welfare requirement in NM water code
+
+[Public welfare requirement in NM water code](public)
+
+### Regional water planning
 
 [Regional water planning statute and documents](regional)
 
