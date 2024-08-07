@@ -17,6 +17,12 @@ layout: home
 
 [Crop data](cropdata)
 
+[2022 USDA census of Agriculture](https://www.nass.usda.gov/Publications/AgCensus/2022/#full_report)
+
+[NM Economic Quarterly Summary 5/24]( May-2024-Economic-Summary-New-Mexico.pdf)
+
+[Dona Ana County Economic Quarterly Summary 6/24](June-2024-Economic-Summary-Dona-Ana.pdf)
+
 ### Virtual water
 
 [Virtual water](virtualwater)
