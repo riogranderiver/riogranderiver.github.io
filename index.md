@@ -10,7 +10,7 @@ layout: home
 ### Water data
 
 - [Caballo releases](caballo)
-  - [arrival data 2021-23](ArrivalData.xlsx)
+  - [arrival data 2021-2024](ArrivalData.xlsx)
 
 - [Groundwater/Surface-Water Interactions](groundwater)
 
