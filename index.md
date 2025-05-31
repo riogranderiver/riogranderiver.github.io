@@ -11,6 +11,7 @@ layout: home
 
 - [Caballo releases](caballo)
   - [arrival data 2021-2024](ArrivalData.xlsx)
+  - [arrival times](arrival)
 
 - [Groundwater/Surface-Water Interactions](groundwater)
 
