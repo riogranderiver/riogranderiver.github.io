@@ -19,7 +19,8 @@ Hope Road, mile 57.5,  10:18,  4.5 miles/180min ~1.5 mi/hr
 
 Shalem Colony, mile 51.25, 15:15, ~6.25 miles/300min = ~1.25 mi/hr
 
-La Llorona, mile 45.75, 20:00,  ~5.5 miles/285min = ~1.16 mi/hr
+La Llorona, mile 45.75, 22:00,  ~5.5 miles/405min = ~0.8 mi/hr
 
-Calle del Norte, mile 42
+(Calle del Norte, mile 42)
 
+Highway 28 bridge, mile 36.6, 9:00am  (6/1), 9.15 miles/11 hrs = 0.83 mi/hr
