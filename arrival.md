@@ -15,11 +15,11 @@ Broad Canyon, mile 67.4, 3:30, ~40 miles/19.5hr = ~2.05 mi/hr
 
 Leasburg Dam, mile 62, 7:20,  5.4 miles/230min = ~1.4 mi/hr
 
-Hope Road, mile 57.5  10:18,  4.5 miles/180min ~1.5 mi/hr
+Hope Road, mile 57.5,  10:18,  4.5 miles/180min ~1.5 mi/hr
 
-Shalem Colony, mile 51.25 15:15, ~6.25 miles/300min = ~1.25 mi/hr
+Shalem Colony, mile 51.25, 15:15, ~6.25 miles/300min = ~1.25 mi/hr
 
-La Llorona, mile 45.75 20:00,  ~5.5 miles/285min = ~1.16 mi/hr
+La Llorona, mile 45.75, 20:00,  ~5.5 miles/285min = ~1.16 mi/hr
 
 Calle del Norte, mile 42
 
